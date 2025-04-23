@@ -1,2 +1,4 @@
 # module_base_mfe
-![Module Base(2)](https://github.com/user-attachments/assets/2568fe1d-0942-4f7c-b06a-051be49c26af)
+its DIY mirco front end, created for fun.
+# logo
+<img src="https://github.com/user-attachments/assets/b1027f48-763d-4dcf-9ae4-ff53e06f024b" width="100">
