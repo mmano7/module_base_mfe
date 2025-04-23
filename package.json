@@ -1,0 +1,17 @@
+{
+  "name": "module_base_mfe",
+  "version": "1.0.0",
+  "description": "its a micro-front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mfe",
+    "micro-front-end",
+    "react",
+    "diy"
+  ],
+  "author": "Mano",
+  "license": "MIT"
+}
